@@ -1,4 +1,5 @@
-// @rfk/ui - Button Component
-// Button 컴포넌트가 여기에 구현될 예정
+let test = "123";
 
-export {};
+export const Button = () => {
+  return <button>Button</button>;
+};
