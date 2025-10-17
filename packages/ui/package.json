@@ -1,5 +1,5 @@
 {
-  "name": "@admin-kit/ui",
+  "name": "@rfk/ui",
   "version": "0.0.0",
   "private": true,
   "exports": {
@@ -11,8 +11,8 @@
     "check-types": "tsc --noEmit"
   },
   "devDependencies": {
-    "@admin-kit/eslint-config": "workspace:*",
-    "@admin-kit/typescript-config": "workspace:*",
+    "@rfk/eslint-config": "workspace:*",
+    "@rfk/typescript-config": "workspace:*",
     "@types/node": "^22.15.3",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.1",

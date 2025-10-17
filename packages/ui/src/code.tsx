@@ -1,11 +1,4 @@
-import { type JSX } from "react";
+// @rfk/ui - Code Component
+// Code 컴포넌트가 여기에 구현될 예정
 
-export function Code({
-  children,
-  className,
-}: {
-  children: React.ReactNode;
-  className?: string;
-}): JSX.Element {
-  return <code className={className}>{children}</code>;
-}
+export {};

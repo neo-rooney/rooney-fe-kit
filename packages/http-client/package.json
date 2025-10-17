@@ -1,5 +1,5 @@
 {
-  "name": "@rfk/auth",
+  "name": "@rfk/http-client",
   "version": "0.0.1",
   "private": true,
   "exports": {
@@ -8,6 +8,9 @@
   "scripts": {
     "lint": "eslint . --max-warnings 0",
     "check-types": "tsc --noEmit"
+  },
+  "dependencies": {
+    "axios": "^1.7.9"
   },
   "devDependencies": {
     "@rfk/eslint-config": "workspace:*",

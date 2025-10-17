@@ -1,5 +1,5 @@
 {
-  "name": "@admin-kit/eslint-config",
+  "name": "@rfk/eslint-config",
   "version": "0.0.0",
   "type": "module",
   "private": true,
